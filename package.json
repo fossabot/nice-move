@@ -31,7 +31,7 @@
     "husky": "^4.2.5",
     "nodemon": "^2.0.4",
     "prettier": "^2.1.1",
-    "stylelint": "^13.6.1",
+    "stylelint": "^13.7.0",
     "x-readme": "^0.0.3"
   },
   "peerDependencies": {
